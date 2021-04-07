@@ -1,0 +1,113 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.heading {
+    background-color: rgb(118, 170, 118);
+    padding: 20px;
+    color: white;
+    font-size: 20+px;
+}
+.launch {
+    /* height: 100px; */
+    width: 50%;
+    position: relative;
+    left: 150px;
+    bottom: 100px;
+    
+}
+.launch-p {
+    width:60%;
+    font-size: large;
+}
+
+
+#rocket {
+    /* height: 100px; */
+    width: 100px;
+    position: relative;
+    left: 30px;
+}
+#team {
+    height: 100px;
+    width: 100px;
+    position: relative;
+    left: 30px;
+    bottom: 80px;
+}
+
+.community {
+    position: relative;
+    /* height: 60%; */
+    width:60%;
+    left: 150px;
+    bottom: 170px;
+}
+.commun {
+    width:50%;
+    font-size: large;
+}
+#icon {
+    /* height: 100px; */
+    width: 100px;
+    position: relative;
+    left: 30px;
+    bottom: 150px;
+}
+.build {
+    position: relative;
+    /* height: 60%; */
+    width:60%;
+    left: 150px;
+    bottom: 250px;
+}
+.build-p {
+    width: 60%;
+}
+span {
+    font-weight:600;
+}
+/* form */
+.form {
+    position:relative;
+     height: 80%; 
+    width: 25%;
+    left: 60%;
+    bottom: 550px;
+    background-color: rgba(0, 0, 0, 0.753);
+    border-radius: 5%;
+}
+
+#name {
+    padding: 5px;
+    margin: 10px;
+}
+#Num {
+    padding: 5px;
+    margin: 10px;
+}
+#email {
+    padding: 5px;
+    margin: 10px;
+}
+#profession {
+    padding: 5px;
+    margin: 10px;
+}
+#button {
+    padding: 5px;
+    margin: 10px;
+    background-color: orangered;
+    color: white;
+    font-size: 25px;
+    font-family: sans-serif;
+    font-weight: 550;
+}
+.query {
+    width: 50%;
+    color: white;
+    margin: 15px;
+}
